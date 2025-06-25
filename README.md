@@ -134,4 +134,4 @@ For advanced users who want to fine-tune the tracking system:
 
 **Ahmed Mossad** - [ahmed.abdelfattah.mossad@gmail.com](mailto:ahmed.abdelfattah.mossad@gmail.com)
 
-Project Link: [https://github.com/ahmedm0ssad/person-tracker](https://github.com/ahmedm0ssad/person-tracker)
+Project Link: [https://github.com/ahmedm0ssad/person-tracker](https://github.com/ahmedm0ssad/person-tracker-sort)
