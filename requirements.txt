@@ -1,0 +1,14 @@
+# Required packages for Person Tracking and Path Visualization
+ultralytics>=8.0.0
+opencv-python>=4.8.0
+numpy>=1.24.0
+scipy>=1.10.0
+
+# SORT tracker dependencies
+filterpy==1.4.5
+scikit-image>=0.20.0
+lap>=0.4.0
+
+# Optional dependencies for better performance
+matplotlib>=3.7.0
+Pillow>=9.5.0

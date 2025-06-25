@@ -1,0 +1,35 @@
+# Byte-compiled / optimized / Python files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# IDE files
+.vscode/
+.idea/
+
+# Large files
+*.mp4
+*.avi
+*.mov
+*.pt
+*.pth
+
+# Output files
+output_*
+results/
+
+# OS specific files
+.DS_Store
+Thumbs.db
